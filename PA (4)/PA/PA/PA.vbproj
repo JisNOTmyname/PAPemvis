@@ -1,0 +1,227 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C454E601-F8A1-4CA5-B67A-57D6452DDA2B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>PA.My.MyApplication</StartupObject>
+    <RootNamespace>PA</RootNamespace>
+    <AssemblyName>PA</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>PA.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>PA.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="mysql.data, Version=8.4.0.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\Desktop\mysql-connector-net-6.6.4-noinstall\v4\mysql.data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="2ndusercntrl.Designer.vb">
+      <DependentUpon>2ndusercntrl.vb</DependentUpon>
+    </Compile>
+    <Compile Include="2ndusercntrl.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="adminlihat.Designer.vb">
+      <DependentUpon>adminlihat.vb</DependentUpon>
+    </Compile>
+    <Compile Include="adminlihat.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="customerform.Designer.vb">
+      <DependentUpon>customerform.vb</DependentUpon>
+    </Compile>
+    <Compile Include="customerform.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="firstcostumcontrol.Designer.vb">
+      <DependentUpon>firstcostumcontrol.vb</DependentUpon>
+    </Compile>
+    <Compile Include="firstcostumcontrol.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formlogin.Designer.vb">
+      <DependentUpon>formlogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="formlogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hapusmobiladmin.Designer.vb">
+      <DependentUpon>hapusmobiladmin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="hapusmobiladmin.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="mobil.Designer.vb">
+      <DependentUpon>mobil.vb</DependentUpon>
+    </Compile>
+    <Compile Include="mobil.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module1.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="tambahmobiladmin.Designer.vb">
+      <DependentUpon>tambahmobiladmin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="tambahmobiladmin.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ubahmobiladmin.Designer.vb">
+      <DependentUpon>ubahmobiladmin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ubahmobiladmin.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="usercontrol2.Designer.vb">
+      <DependentUpon>usercontrol2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="usercontrol2.vb" />
+    <Compile Include="usercontrollihatmobil.Designer.vb">
+      <DependentUpon>usercontrollihatmobil.vb</DependentUpon>
+    </Compile>
+    <Compile Include="usercontrollihatmobil.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="2ndusercntrl.resx">
+      <DependentUpon>2ndusercntrl.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="adminlihat.resx">
+      <DependentUpon>adminlihat.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="customerform.resx">
+      <DependentUpon>customerform.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="firstcostumcontrol.resx">
+      <DependentUpon>firstcostumcontrol.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formlogin.resx">
+      <DependentUpon>formlogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hapusmobiladmin.resx">
+      <DependentUpon>hapusmobiladmin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mobil.resx">
+      <DependentUpon>mobil.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tambahmobiladmin.resx">
+      <DependentUpon>tambahmobiladmin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ubahmobiladmin.resx">
+      <DependentUpon>ubahmobiladmin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="usercontrol2.resx">
+      <DependentUpon>usercontrol2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="usercontrollihatmobil.resx">
+      <DependentUpon>usercontrollihatmobil.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

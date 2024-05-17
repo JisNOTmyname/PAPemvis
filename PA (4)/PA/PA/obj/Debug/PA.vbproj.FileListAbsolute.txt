@@ -1,0 +1,135 @@
+C:\Users\fa506\OneDrive\Documents\TUGAS\PRAKTIKUM\PEMVIS\PA\PA\bin\Debug\PA.exe.config
+C:\Users\fa506\OneDrive\Documents\TUGAS\PRAKTIKUM\PEMVIS\PA\PA\bin\Debug\PA.exe
+C:\Users\fa506\OneDrive\Documents\TUGAS\PRAKTIKUM\PEMVIS\PA\PA\bin\Debug\PA.pdb
+C:\Users\fa506\OneDrive\Documents\TUGAS\PRAKTIKUM\PEMVIS\PA\PA\bin\Debug\PA.xml
+C:\Users\fa506\OneDrive\Documents\TUGAS\PRAKTIKUM\PEMVIS\PA\PA\obj\Debug\PA.firstcostumcontrol.resources
+C:\Users\fa506\OneDrive\Documents\TUGAS\PRAKTIKUM\PEMVIS\PA\PA\obj\Debug\PA.Form1.resources
+C:\Users\fa506\OneDrive\Documents\TUGAS\PRAKTIKUM\PEMVIS\PA\PA\obj\Debug\PA.Resources.resources
+C:\Users\fa506\OneDrive\Documents\TUGAS\PRAKTIKUM\PEMVIS\PA\PA\obj\Debug\PA.vbproj.GenerateResource.Cache
+C:\Users\fa506\OneDrive\Documents\TUGAS\PRAKTIKUM\PEMVIS\PA\PA\obj\Debug\PA.exe
+C:\Users\fa506\OneDrive\Documents\TUGAS\PRAKTIKUM\PEMVIS\PA\PA\obj\Debug\PA.xml
+C:\Users\fa506\OneDrive\Documents\TUGAS\PRAKTIKUM\PEMVIS\PA\PA\obj\Debug\PA.pdb
+C:\Users\fa506\OneDrive\Documents\TUGAS\PRAKTIKUM\PEMVIS\PA\PA\obj\Debug\PA._2ndusercntrl.resources
+C:\Users\fa506\OneDrive\Documents\TUGAS\PRAKTIKUM\PEMVIS\PA\PA\obj\Debug\PA.usercontrol2.resources
+C:\Users\fa506\OneDrive\Documents\TUGAS\PRAKTIKUM\PEMVIS\PA\PA\obj\Debug\PA.tambahmobiladmin.resources
+C:\Users\fa506\OneDrive\Documents\TUGAS\PRAKTIKUM\PEMVIS\PA\PA\obj\Debug\PA.ubahmobiladmin.resources
+C:\Users\fa506\OneDrive\Documents\TUGAS\PRAKTIKUM\PEMVIS\PA\PA\obj\Debug\PA.hapusmobiladmin.resources
+D:\Pem visual\pa\PA\PA\PA\bin\Debug\PA.exe.config
+D:\Pem visual\pa\PA\PA\PA\obj\Debug\PA.exe
+D:\Pem visual\pa\PA\PA\PA\obj\Debug\PA.xml
+D:\Pem visual\pa\PA\PA\PA\obj\Debug\PA.pdb
+D:\Pem visual\pa\PA\PA\PA\bin\Debug\PA.exe
+D:\Pem visual\pa\PA\PA\PA\bin\Debug\PA.pdb
+D:\Pem visual\pa\PA\PA\PA\bin\Debug\PA.xml
+D:\Pem visual\pa\PA\PA\PA\obj\Debug\PA._2ndusercntrl.resources
+D:\Pem visual\pa\PA\PA\PA\obj\Debug\PA.firstcostumcontrol.resources
+D:\Pem visual\pa\PA\PA\PA\obj\Debug\PA.Form1.resources
+D:\Pem visual\pa\PA\PA\PA\obj\Debug\PA.hapusmobiladmin.resources
+D:\Pem visual\pa\PA\PA\PA\obj\Debug\PA.Resources.resources
+D:\Pem visual\pa\PA\PA\PA\obj\Debug\PA.tambahmobiladmin.resources
+D:\Pem visual\pa\PA\PA\PA\obj\Debug\PA.ubahmobiladmin.resources
+D:\Pem visual\pa\PA\PA\PA\obj\Debug\PA.usercontrol2.resources
+D:\Pem visual\pa\PA\PA\PA\obj\Debug\PA.vbproj.GenerateResource.Cache
+D:\INFORMATIKA B22\Semester 4\pemvis PA\agil\PA\PA\PA\bin\Debug\PA.exe.config
+D:\INFORMATIKA B22\Semester 4\pemvis PA\agil\PA\PA\PA\obj\Debug\PA.exe
+D:\INFORMATIKA B22\Semester 4\pemvis PA\agil\PA\PA\PA\obj\Debug\PA.xml
+D:\INFORMATIKA B22\Semester 4\pemvis PA\agil\PA\PA\PA\obj\Debug\PA.pdb
+D:\INFORMATIKA B22\Semester 4\pemvis PA\agil\PA\PA\PA\bin\Debug\PA.exe
+D:\INFORMATIKA B22\Semester 4\pemvis PA\agil\PA\PA\PA\bin\Debug\PA.pdb
+D:\INFORMATIKA B22\Semester 4\pemvis PA\agil\PA\PA\PA\bin\Debug\PA.xml
+D:\INFORMATIKA B22\Semester 4\pemvis PA\agil\PA\PA\PA\obj\Debug\PA._2ndusercntrl.resources
+D:\INFORMATIKA B22\Semester 4\pemvis PA\agil\PA\PA\PA\obj\Debug\PA.firstcostumcontrol.resources
+D:\INFORMATIKA B22\Semester 4\pemvis PA\agil\PA\PA\PA\obj\Debug\PA.Form1.resources
+D:\INFORMATIKA B22\Semester 4\pemvis PA\agil\PA\PA\PA\obj\Debug\PA.formlogin.resources
+D:\INFORMATIKA B22\Semester 4\pemvis PA\agil\PA\PA\PA\obj\Debug\PA.hapusmobiladmin.resources
+D:\INFORMATIKA B22\Semester 4\pemvis PA\agil\PA\PA\PA\obj\Debug\PA.Resources.resources
+D:\INFORMATIKA B22\Semester 4\pemvis PA\agil\PA\PA\PA\obj\Debug\PA.tambahmobiladmin.resources
+D:\INFORMATIKA B22\Semester 4\pemvis PA\agil\PA\PA\PA\obj\Debug\PA.ubahmobiladmin.resources
+D:\INFORMATIKA B22\Semester 4\pemvis PA\agil\PA\PA\PA\obj\Debug\PA.usercontrol2.resources
+D:\INFORMATIKA B22\Semester 4\pemvis PA\agil\PA\PA\PA\obj\Debug\PA.vbproj.GenerateResource.Cache
+D:\INFORMATIKA B22\Semester 4\pemvis PA\agil\PA\PA\PA\obj\Debug\PA.formregister.resources
+C:\Users\fa506\Downloads\PA (2)\PA\PA\bin\Debug\PA.exe.config
+C:\Users\fa506\Downloads\PA (2)\PA\PA\obj\Debug\PA.exe
+C:\Users\fa506\Downloads\PA (2)\PA\PA\obj\Debug\PA.xml
+C:\Users\fa506\Downloads\PA (2)\PA\PA\obj\Debug\PA.pdb
+C:\Users\fa506\Downloads\PA (2)\PA\PA\bin\Debug\PA.exe
+C:\Users\fa506\Downloads\PA (2)\PA\PA\bin\Debug\PA.pdb
+C:\Users\fa506\Downloads\PA (2)\PA\PA\bin\Debug\PA.xml
+C:\Users\fa506\Downloads\PA (2)\PA\PA\obj\Debug\PA._2ndusercntrl.resources
+C:\Users\fa506\Downloads\PA (2)\PA\PA\obj\Debug\PA.firstcostumcontrol.resources
+C:\Users\fa506\Downloads\PA (2)\PA\PA\obj\Debug\PA.Form1.resources
+C:\Users\fa506\Downloads\PA (2)\PA\PA\obj\Debug\PA.formlogin.resources
+C:\Users\fa506\Downloads\PA (2)\PA\PA\obj\Debug\PA.FormRegister.resources
+C:\Users\fa506\Downloads\PA (2)\PA\PA\obj\Debug\PA.hapusmobiladmin.resources
+C:\Users\fa506\Downloads\PA (2)\PA\PA\obj\Debug\PA.Resources.resources
+C:\Users\fa506\Downloads\PA (2)\PA\PA\obj\Debug\PA.tambahmobiladmin.resources
+C:\Users\fa506\Downloads\PA (2)\PA\PA\obj\Debug\PA.ubahmobiladmin.resources
+C:\Users\fa506\Downloads\PA (2)\PA\PA\obj\Debug\PA.usercontrol2.resources
+C:\Users\fa506\Downloads\PA (2)\PA\PA\obj\Debug\PA.vbproj.GenerateResource.Cache
+C:\Users\fa506\Downloads\PA (2)\PA\PA\bin\Debug\mysql.data.dll
+C:\Users\fa506\Downloads\PA (2)\PA\PA\obj\Debug\PA.customerform.resources
+C:\Users\fa506\Downloads\PA (2)\PA\PA\obj\Debug\PA.usercontrollihatmobil.resources
+C:\Users\fa506\Downloads\PA (2)\PA\PA\obj\Debug\PA.vbprojResolveAssemblyReference.cache
+D:\INFORMATIKA B22\Semester 4\pemvis PA\zek\PA (2)\PA\PA\bin\Debug\PA.exe.config
+D:\INFORMATIKA B22\Semester 4\pemvis PA\zek\PA (2)\PA\PA\obj\Debug\PA.exe
+D:\INFORMATIKA B22\Semester 4\pemvis PA\zek\PA (2)\PA\PA\obj\Debug\PA.xml
+D:\INFORMATIKA B22\Semester 4\pemvis PA\zek\PA (2)\PA\PA\obj\Debug\PA.pdb
+D:\INFORMATIKA B22\Semester 4\pemvis PA\zek\PA (2)\PA\PA\obj\Debug\PA.vbprojResolveAssemblyReference.cache
+D:\INFORMATIKA B22\Semester 4\pemvis PA\zek\PA (2)\PA\PA\obj\Debug\PA._2ndusercntrl.resources
+D:\INFORMATIKA B22\Semester 4\pemvis PA\zek\PA (2)\PA\PA\obj\Debug\PA.customerform.resources
+D:\INFORMATIKA B22\Semester 4\pemvis PA\zek\PA (2)\PA\PA\obj\Debug\PA.firstcostumcontrol.resources
+D:\INFORMATIKA B22\Semester 4\pemvis PA\zek\PA (2)\PA\PA\obj\Debug\PA.Form1.resources
+D:\INFORMATIKA B22\Semester 4\pemvis PA\zek\PA (2)\PA\PA\obj\Debug\PA.formlogin.resources
+D:\INFORMATIKA B22\Semester 4\pemvis PA\zek\PA (2)\PA\PA\obj\Debug\PA.hapusmobiladmin.resources
+D:\INFORMATIKA B22\Semester 4\pemvis PA\zek\PA (2)\PA\PA\obj\Debug\PA.Resources.resources
+D:\INFORMATIKA B22\Semester 4\pemvis PA\zek\PA (2)\PA\PA\obj\Debug\PA.tambahmobiladmin.resources
+D:\INFORMATIKA B22\Semester 4\pemvis PA\zek\PA (2)\PA\PA\obj\Debug\PA.ubahmobiladmin.resources
+D:\INFORMATIKA B22\Semester 4\pemvis PA\zek\PA (2)\PA\PA\obj\Debug\PA.usercontrol2.resources
+D:\INFORMATIKA B22\Semester 4\pemvis PA\zek\PA (2)\PA\PA\obj\Debug\PA.usercontrollihatmobil.resources
+D:\INFORMATIKA B22\Semester 4\pemvis PA\zek\PA (2)\PA\PA\obj\Debug\PA.vbproj.GenerateResource.Cache
+D:\INFORMATIKA B22\Semester 4\pemvis PA\zek\PA (2)\PA\PA\bin\Debug\PA.exe
+D:\INFORMATIKA B22\Semester 4\pemvis PA\zek\PA (2)\PA\PA\bin\Debug\PA.pdb
+D:\INFORMATIKA B22\Semester 4\pemvis PA\zek\PA (2)\PA\PA\bin\Debug\PA.xml
+D:\PA\PA\bin\Debug\PA.exe.config
+D:\PA\PA\obj\Debug\PA.exe
+D:\PA\PA\obj\Debug\PA.xml
+D:\PA\PA\obj\Debug\PA.pdb
+D:\PA\PA\obj\Debug\PA.vbprojResolveAssemblyReference.cache
+D:\PA\PA\obj\Debug\PA._2ndusercntrl.resources
+D:\PA\PA\obj\Debug\PA.customerform.resources
+D:\PA\PA\obj\Debug\PA.firstcostumcontrol.resources
+D:\PA\PA\obj\Debug\PA.Form1.resources
+D:\PA\PA\obj\Debug\PA.formlogin.resources
+D:\PA\PA\obj\Debug\PA.hapusmobiladmin.resources
+D:\PA\PA\obj\Debug\PA.Resources.resources
+D:\PA\PA\obj\Debug\PA.tambahmobiladmin.resources
+D:\PA\PA\obj\Debug\PA.ubahmobiladmin.resources
+D:\PA\PA\obj\Debug\PA.usercontrol2.resources
+D:\PA\PA\obj\Debug\PA.usercontrollihatmobil.resources
+D:\PA\PA\obj\Debug\PA.vbproj.GenerateResource.Cache
+D:\PA\PA\bin\Debug\PA.exe
+D:\PA\PA\bin\Debug\PA.pdb
+D:\PA\PA\bin\Debug\PA.xml
+D:\PA\PA\obj\Debug\PA.mobil.resources
+C:\Users\fa506\OneDrive\Documents\TUGAS\PA (4)\PA\PA\bin\Debug\PA.exe.config
+C:\Users\fa506\OneDrive\Documents\TUGAS\PA (4)\PA\PA\obj\Debug\PA.exe
+C:\Users\fa506\OneDrive\Documents\TUGAS\PA (4)\PA\PA\obj\Debug\PA.xml
+C:\Users\fa506\OneDrive\Documents\TUGAS\PA (4)\PA\PA\obj\Debug\PA.pdb
+C:\Users\fa506\OneDrive\Documents\TUGAS\PA (4)\PA\PA\obj\Debug\PA._2ndusercntrl.resources
+C:\Users\fa506\OneDrive\Documents\TUGAS\PA (4)\PA\PA\obj\Debug\PA.customerform.resources
+C:\Users\fa506\OneDrive\Documents\TUGAS\PA (4)\PA\PA\obj\Debug\PA.firstcostumcontrol.resources
+C:\Users\fa506\OneDrive\Documents\TUGAS\PA (4)\PA\PA\obj\Debug\PA.Form1.resources
+C:\Users\fa506\OneDrive\Documents\TUGAS\PA (4)\PA\PA\obj\Debug\PA.formlogin.resources
+C:\Users\fa506\OneDrive\Documents\TUGAS\PA (4)\PA\PA\obj\Debug\PA.hapusmobiladmin.resources
+C:\Users\fa506\OneDrive\Documents\TUGAS\PA (4)\PA\PA\obj\Debug\PA.mobil.resources
+C:\Users\fa506\OneDrive\Documents\TUGAS\PA (4)\PA\PA\obj\Debug\PA.Resources.resources
+C:\Users\fa506\OneDrive\Documents\TUGAS\PA (4)\PA\PA\obj\Debug\PA.tambahmobiladmin.resources
+C:\Users\fa506\OneDrive\Documents\TUGAS\PA (4)\PA\PA\obj\Debug\PA.ubahmobiladmin.resources
+C:\Users\fa506\OneDrive\Documents\TUGAS\PA (4)\PA\PA\obj\Debug\PA.usercontrol2.resources
+C:\Users\fa506\OneDrive\Documents\TUGAS\PA (4)\PA\PA\obj\Debug\PA.usercontrollihatmobil.resources
+C:\Users\fa506\OneDrive\Documents\TUGAS\PA (4)\PA\PA\obj\Debug\PA.vbproj.GenerateResource.Cache
+C:\Users\fa506\OneDrive\Documents\TUGAS\PA (4)\PA\PA\bin\Debug\PA.exe
+C:\Users\fa506\OneDrive\Documents\TUGAS\PA (4)\PA\PA\bin\Debug\PA.pdb
+C:\Users\fa506\OneDrive\Documents\TUGAS\PA (4)\PA\PA\bin\Debug\PA.xml
+C:\Users\fa506\OneDrive\Documents\TUGAS\PA (4)\PA\PA\bin\Debug\mysql.data.dll
+C:\Users\fa506\OneDrive\Documents\TUGAS\PA (4)\PA\PA\obj\Debug\PA.adminlihat.resources
